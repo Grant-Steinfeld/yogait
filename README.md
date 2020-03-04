@@ -99,11 +99,7 @@ pre-trained model (located at /assets/classifier.pkl) or retrain it on your own 
 1. [Deploy the Model](#1-deploy-the-model)
 2. [Experimenting with the API (Optional)](#2-experimenting-with-the-api-optional)
 
-#### Starting the Web App
 
-1. [Check out the code](#1-check-out-the-code)
-2. [Installing dependencies](#2-installing-dependencies)
-3. [Running the server](#3-running-the-server)
 
 #### Running Local Python Script
 
@@ -111,10 +107,6 @@ pre-trained model (located at /assets/classifier.pkl) or retrain it on your own 
 2. [Performing live inference](#2-performing-live-inference)
 3. [Retraining the SVM](#3-retraining-the-svm)
 
-#### Using Jupyter Notebook
-
-1. [Run Jupyter Notebook](#1-run-jupyter-notebook)
-2. [Explore and Train](#2-explore-and-train)
 
 ### Setting up the MAX Model
 
@@ -241,21 +233,6 @@ pip install -r requirements.txt
 > **TIP** :bulb: To terminate the virtual environment use the `deactivate` command.
 
 
-#### 3. Running the server
-
-You need to install the dependencies first:
-```bash
-cd web
-npm install
-```
-You then start the web app by running:
-```bash
-node app.js
-```
-You can then access the web app at: [`http://localhost:3000`](http://localhost:3000)
-
-The Human Pose Estimator endpoint must be available at `http://localhost:5000` for the web app to successfully start. Otherwise, use the IBM provided instance at `http://max-human-pose-estimator.max.us-south.containers.appdomain.cloud/model/predict` and edit the endpoint at line 270 in `public/js/main.js` accordingly.
-
 
 ### Running Local Python Script
 
@@ -288,24 +265,12 @@ You can retrain the SVM on your own poses by adding images and folders to assets
   
 You can then retrain the SVM on the updated classes by running from the main folder:
 
+    ```python
     python train.py
+    ```
     
-### Using Jupyter Notebook
-
-#### 1. Run Jupyter Notebook
-
-Once the model server is running, you can see how to use it by walking through [the demo notebook](demo.ipynb). _Note_ the demo requires `jupyter`, `numpy`, `matplotlib`, `opencv-python`, `json`, and `requests`. You can install these using `pip`.
-
-Run the following command from the model repo base folder, in a new terminal window (leaving the model server running in the other terminal window):
-
-    jupyter notebook
 
 
-This will start the notebook server. You can open the simple demo notebook by clicking on `demo.ipynb`.
-
-#### 2. Explore and Train
-
-Inside the notebook, you can load and visualize the data. By following the steps in the notebook, you can retrain the SVM and visualize how well the data classes separate by running PCA.
 
 # Links
 
