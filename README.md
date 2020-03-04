@@ -6,6 +6,11 @@
 
 # This Repo: https://bit.ly/38sjLHz
 
+## Slide deck on SlideShare
+https://www.slideshare.net/GrantSteinfeld/cv-deep-learning-on-ibm-redhat-openshift
+
+
+
 # Create / login to your free IBM Cloud Account https://ibm.biz/BdqDVL
 
 # Meetup March 4th 2020 LMHQ
