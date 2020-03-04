@@ -1,5 +1,7 @@
 # Yogait
 
+# This Repo: https://bit.ly/38sjLHz
+
 Build a web application that recognizes yoga poses using a model from the [Model Asset Exchange](https://developer.ibm.com/exchanges/models/all/max-human-pose-estimator/).
 
 # IBM Developer Model Asset Exchange: Human Pose Estimator Demo
@@ -11,10 +13,14 @@ The MAX model is deployed to a local server which performs inference and returns
 * Collin Abidi <cba15@pitt.edu>
 * Daniel Jalova <djalova@us.ibm.com>
 
+# Presenter
+* Grant Steinfeld <grant.steinfeld@ibm.com> @gsteinfeld
+
+
 # URLs
 
 **Pattern Github Repo**
-* https://github.com/dzwietering/yogait
+* https://github.com/Grant-Steinfeld/yogait
 
 **MAX Model Github Repo**
 * https://github.com/IBM/MAX-Human-Pose-Estimator
