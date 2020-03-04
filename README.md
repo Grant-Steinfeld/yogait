@@ -1,8 +1,22 @@
-# Yogait
+# CV & Deep learning on IBM RedHat OpenShift
+
+
+# Presenter
+* Grant Steinfeld <grant.steinfeld@ibm.com> @gsteinfeld
 
 # This Repo: https://bit.ly/38sjLHz
 
-Build a web application that recognizes yoga poses using a model from the [Model Asset Exchange](https://developer.ibm.com/exchanges/models/all/max-human-pose-estimator/).
+# Create / login to your free IBM Cloud Account https://ibm.biz/BdqDVL
+
+# Meetup March 4th 2020 LMHQ
+
+https://www.meetup.com/ibmcodenyc/events/268172307/
+
+## What you will learn
+
+1. Deploy MAX image classifier to RedHat OpenShift 3 on IBM Cloud
+
+1. Build a web application that recognizes yoga poses using a model from the [Model Asset Exchange](https://developer.ibm.com/exchanges/models/all/max-human-pose-estimator/).
 
 # IBM Developer Model Asset Exchange: Human Pose Estimator Demo
 
@@ -13,8 +27,6 @@ The MAX model is deployed to a local server which performs inference and returns
 * Collin Abidi <cba15@pitt.edu>
 * Daniel Jalova <djalova@us.ibm.com>
 
-# Presenter
-* Grant Steinfeld <grant.steinfeld@ibm.com> @gsteinfeld
 
 
 # URLs
