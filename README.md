@@ -1,8 +1,8 @@
 # Computer Vision & Deep learning on Kubernetes on IBM Red Hat OpenShift
 
 
-# Presenter
-* Grant Steinfeld <grant.steinfeld@ibm.com> @gsteinfeld
+### Presenter
+ Grant Steinfeld <grant.steinfeld@ibm.com> @gsteinfeld
 
 ![tweet collage of the event](https://github.com/Grant-Steinfeld/yogait/blob/master/Yogait-Workshop-tweet-collage.jpg)
 [Tweet post event](- https://twitter.com/gsteinfeld/status/1235952319944175616?s=20)
@@ -11,7 +11,7 @@
 ## Slide deck on SlideShare
 https://www.slideshare.net/GrantSteinfeld/cv-deep-learning-on-ibm-redhat-openshift
 
-# Meetup March 4th 2020 LMHQ
+## Meetup March 4th 2020 LMHQ
 
 https://www.meetup.com/ibmcodenyc/events/268172307/
 
@@ -21,7 +21,7 @@ https://www.meetup.com/ibmcodenyc/events/268172307/
 
 1. Build a web application that recognizes Yoga poses using a model from the [Model Asset Exchange](https://developer.ibm.com/exchanges/models/all/max-human-pose-estimator/).
 
-# IBM Developer Model Asset Exchange: Human Pose Estimator Demo
+## IBM Developer Model Asset Exchange: Human Pose Estimator Demo
 
 Yogait is a yoga assistant that uses the Human Pose Estimator MAX Model to guess which yoga pose a user is performing.
 The MAX model is deployed to a local server which performs inference and returns the pose guess to the client application.
