@@ -1,5 +1,4 @@
-# Computer Vision & Deep learning on Kubernetes on IBM Red Hat OpenShift
-
+# Yoga pose estimation, using Computer Vision, Deep learning and Tensorflow running on Red Hat OpenShift Kubernetes
 
 ### Presenter and teacher
  Grant Steinfeld 
