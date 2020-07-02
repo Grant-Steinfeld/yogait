@@ -5,13 +5,11 @@
 * Grant Steinfeld <grant.steinfeld@ibm.com> @gsteinfeld
 
 ![tweet collage of the event](https://github.com/Grant-Steinfeld/yogait/blob/master/Yogait-Workshop-tweet-collage.jpg)
+[Tweet post event](- https://twitter.com/gsteinfeld/status/1235952319944175616?s=20)
 
 
 ## Slide deck on SlideShare
 https://www.slideshare.net/GrantSteinfeld/cv-deep-learning-on-ibm-redhat-openshift
-
-
-
 
 # Meetup March 4th 2020 LMHQ
 
