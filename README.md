@@ -1,8 +1,12 @@
 # Computer Vision & Deep learning on Kubernetes on IBM Red Hat OpenShift
 
 
-### Presenter
- Grant Steinfeld <grant.steinfeld@ibm.com> @gsteinfeld
+### Presenter and teacher
+ Grant Steinfeld 
+ <grant.steinfeld.tech@gmail.com>
+ @gsteinfeld 
+https://www.linkedin.com/in/grant-steinfeld/
+
 
 ![tweet collage of the event](https://github.com/Grant-Steinfeld/yogait/blob/master/Yogait-Workshop-tweet-collage.jpg)
 [Tweet post event](- https://twitter.com/gsteinfeld/status/1235952319944175616?s=20)
