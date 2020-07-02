@@ -1,4 +1,4 @@
-# CV & Deep learning on IBM RedHat OpenShift
+# Computer Vision & Deep learning on Kubernetes on IBM Red Hat OpenShift
 
 
 # Presenter
