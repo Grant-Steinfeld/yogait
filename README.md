@@ -4,14 +4,14 @@
 # Presenter
 * Grant Steinfeld <grant.steinfeld@ibm.com> @gsteinfeld
 
-# This Repo: https://bit.ly/38sjLHz
+![tweet collage of the event](https://github.com/Grant-Steinfeld/yogait/blob/master/Yogait-Workshop-tweet-collage.jpg)
+
 
 ## Slide deck on SlideShare
 https://www.slideshare.net/GrantSteinfeld/cv-deep-learning-on-ibm-redhat-openshift
 
 
 
-# Create / login to your free IBM Cloud Account https://ibm.biz/BdqDVL
 
 # Meetup March 4th 2020 LMHQ
 
@@ -21,7 +21,7 @@ https://www.meetup.com/ibmcodenyc/events/268172307/
 
 1. Deploy MAX image classifier to RedHat OpenShift 3 on IBM Cloud
 
-1. Build a web application that recognizes yoga poses using a model from the [Model Asset Exchange](https://developer.ibm.com/exchanges/models/all/max-human-pose-estimator/).
+1. Build a web application that recognizes Yoga poses using a model from the [Model Asset Exchange](https://developer.ibm.com/exchanges/models/all/max-human-pose-estimator/).
 
 # IBM Developer Model Asset Exchange: Human Pose Estimator Demo
 
@@ -302,6 +302,8 @@ You can then retrain the SVM on the updated classes by running from the main fol
 * [MAX Announcement Blog](https://developer.ibm.com/code/2018/03/20/igniting-a-community-around-deep-learning-models-with-model-asset-exchange-max/)
 
 # Learn More
+
+# Create / login to your free IBM Cloud Account https://ibm.biz/BdqDVL
 
 * **Artificial Intelligence Code Patterns**: Enjoyed this Code Pattern? Check out our other
 [Artificial Intelligence Code Patterns](https://developer.ibm.com/technologies/artificial-intelligence/)
